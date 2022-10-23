@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://katrinachiu.github.io/DH150/sitemap.xml
